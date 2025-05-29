@@ -1,11 +1,11 @@
 #219189_Desafio02
 
-#Desafio 02 da Ecola DNC
+Desafio 02 da Ecola DNC
 
-##Fonte usada:
+Fonte usada:
 
 https://fonts.google.com/specimen/Montserrat
 
-##Esboço no excalidraw
+Esboço no excalidraw:
 
 https://excalidraw.com/#json=rRuAPJcHJF8adZ_aK-GBy,gGz2XywtbkJCmfpkcFWnfA
